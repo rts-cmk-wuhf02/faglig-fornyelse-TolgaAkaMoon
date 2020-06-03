@@ -1,9 +1,12 @@
+# Aflevering
+https://www.skoletube.dk/video/5864424/3256c3f127c42d99dd4afdce8e5bde23
+
 # Beskrivelse
-## jeg ville lave en lommeregner med vue, som virker og jeg ville have en forståelse for vue.
+jeg ville lave en lommeregner med vue, som virker og jeg ville have en forståelse for vue.
 
 # Teknologi
-## Jeg ville bruge NodeJS som engine og VUE som framework.
-## Udeover det koder jeg i visual studio og pusher til GitHub.
+Jeg ville bruge NodeJS som engine og VUE som framework.
+Udeover det koder jeg i visual studio og pusher til GitHub.
 
 # faglig-fornyelse
 
